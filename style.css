@@ -10,11 +10,9 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 1.4rem;
     border-radius: 1rem;
-    outline: 1px;
-    outline-color: hsl(0, 0%, 0%);
-    box-shadow: 8px 8px;
     outline-style: solid;
-    outline-color: black;
+    outline-width: 1px;
+    box-shadow: 8px 8px;
     font-family: "Figtree", sans-serif;
     width: 350px;
 }
